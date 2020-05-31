@@ -1,0 +1,541 @@
+{
+    "Employees": {
+        "Employee 1": {
+            "License": "Nurse Practitioner",
+            "Specialty": "Urgent Care",
+            "Age": "Pediatric",
+            "Availability": [
+                "M1",
+                "T1",
+                "W1",
+                "R1",
+                "F1",
+                "M2",
+                "T2",
+                "W2",
+                "R2",
+                "F2"
+            ],
+            "PreferredLocationOfWork": "CHCF",
+            "Requested_dates_off": [
+                "2020-05-09",
+                "2021-01-31"
+            ],
+            "PreferredWorkingDays":3
+        },
+        "Employee 2": {
+            "License": "Nurse Practitioner",
+            "Specialty": "Urgent Care",
+            "Age": "Pediatric",
+            "Availability": [
+                "M1",
+                "T1",
+                "W1",
+                "R1",
+                "F1",
+                "M2",
+                "T2",
+                "W2",
+                "R2",
+                "F2"
+            ],
+            "PreferredLocationOfWork": "CHCF",
+            "Requested_dates_off": [
+                "2020-05-09",
+                "2021-01-31"
+            ],
+            "PreferredWorkingDays":3
+        },
+        "Employee 3": {
+            "License": "Nurse Practitioner",
+            "Specialty": "Urgent Care",
+            "Age": "Pediatric",
+            "Availability": [
+                "M1",
+                "T1",
+                "W1",
+                "R1",
+                "F1",
+                "M2",
+                "T2",
+                "W2",
+                "R2",
+                "F2"
+            ],
+            "PreferredLocationOfWork": "CHCF",
+            "Requested_dates_off": [
+                "2020-05-09",
+                "2021-01-31"
+            ],
+            "PreferredWorkingDays":3
+        },
+        "Employee 4": {
+            "License": "Nurse Practitioner",
+            "Specialty": "Urgent Care",
+            "Age": "Adult",
+            "Availability": [
+                "M1",
+                "T1",
+                "W1",
+                "R1",
+                "F1",
+                "M2",
+                "T2",
+                "W2",
+                "R2",
+                "F2"
+            ],
+            "PreferredLocationOfWork": "CHCF",
+            "Requested_dates_off": [
+                "2020-05-09",
+                "2021-01-31"
+            ],
+            "PreferredWorkingDays":3
+        },
+        "Employee 5": {
+            "License": "Nurse Practitioner",
+            "Specialty": "Urgent Care",
+            "Age": "Adult",
+            "Availability": [
+                "M1",
+                "T1",
+                "W1",
+                "R1",
+                "F1",
+                "M2",
+                "T2",
+                "W2",
+                "R2",
+                "F2"
+            ],
+            "PreferredLocationOfWork": "CHCF",
+            "Requested_dates_off": [
+                "2020-05-09",
+                "2021-01-31"
+            ],
+            "PreferredWorkingDays":3
+        },
+        "Employee 6": {
+            "License": "Nurse Practitioner",
+            "Specialty": "Urgent Care",
+            "Age": "Pediatric",
+            "Availability": [
+                "M1",
+                "T1",
+                "W1",
+                "R1",
+                "F1",
+                "M2",
+                "T2",
+                "W2",
+                "R2",
+                "F2"
+            ],
+            "PreferredLocationOfWork": "CHCF",
+            "Requested_dates_off": [
+                "2020-05-09",
+                "2021-01-31"
+            ],
+            "PreferredWorkingDays":3
+        },
+        "Employee 7": {
+            "License": "Nurse Practitioner",
+            "Specialty": "Urgent Care",
+            "Age": "Pediatric",
+            "Availability": [
+                "M1",
+                "T1",
+                "W1",
+                "R1",
+                "F1",
+                "M2",
+                "T2",
+                "W2",
+                "R2",
+                "F2"
+            ],
+            "PreferredLocationOfWork": "CHCF",
+            "Requested_dates_off": [
+                "2020-05-09",
+                "2021-01-31"
+            ],
+            "PreferredWorkingDays":3
+        },
+        "Employee 8": {
+            "License": "Nurse Practitioner",
+            "Specialty": "Urgent Care",
+            "Age": "Pediatric",
+            "Availability": [
+                "M1",
+                "T1",
+                "W1",
+                "R1",
+                "F1",
+                "M2",
+                "T2",
+                "W2",
+                "R2",
+                "F2"
+            ],
+            "PreferredLocationOfWork": "CHCF",
+            "Requested_dates_off": [
+                "2020-05-09",
+                "2021-01-31"
+            ],
+            "PreferredWorkingDays":3
+        },
+        "Employee 9": {
+            "License": "Nurse Practitioner",
+            "Specialty": "Urgent Care",
+            "Age": "Adult",
+            "Availability": [
+                "M1",
+                "T1",
+                "W1",
+                "R1",
+                "F1",
+                "M2",
+                "T2",
+                "W2",
+                "R2",
+                "F2"
+            ],
+            "PreferredLocationOfWork": "CHCF",
+            "Requested_dates_off": [
+                "2020-05-09",
+                "2021-01-31"
+            ],
+            "PreferredWorkingDays":3
+        },
+        "Employee 10": {
+            "License": "Nurse Practitioner",
+            "Specialty": "Urgent Care",
+            "Age": "Adult",
+            "Availability": [
+                "M1",
+                "T1",
+                "W1",
+                "R1",
+                "F1",
+                "M2",
+                "T2",
+                "W2",
+                "R2",
+                "F2"
+            ],
+            "PreferredLocationOfWork": "CHCF",
+            "Requested_dates_off": [
+                "2020-05-09",
+                "2021-01-31"
+            ],
+            "PreferredWorkingDays":3
+        },
+        "Employee 11": {
+            "License": "Nurse Practitioner",
+            "Specialty": "Urgent Care",
+            "Age": "Geriatric",
+            "Availability": [
+                "M1",
+                "T1",
+                "W1",
+                "R1",
+                "F1",
+                "M2",
+                "T2",
+                "W2",
+                "R2",
+                "F2"
+            ],
+            "PreferredLocationOfWork": "CHCF",
+            "Requested_dates_off": [
+                "2020-05-09",
+                "2021-01-31"
+            ],
+            "PreferredWorkingDays":3
+        },
+        "Employee 12": {
+            "License": "Nurse Practitioner",
+            "Specialty": "Urgent Care",
+            "Age": "Geriatric",
+            "Availability": [
+                "M1",
+                "T1",
+                "W1",
+                "R1",
+                "F1",
+                "M2",
+                "T2",
+                "W2",
+                "R2",
+                "F2"
+            ],
+            "PreferredLocationOfWork": "CHCF",
+            "Requested_dates_off": [
+                "2020-05-09",
+                "2021-01-31"
+            ],
+            "PreferredWorkingDays":3
+        },
+        "Employee 13": {
+            "License": "Nurse Practitioner",
+            "Specialty": "Urgent Care",
+            "Age": "Family",
+            "Availability": [
+                "M1",
+                "T1",
+                "W1",
+                "R1",
+                "F1",
+                "M2",
+                "T2",
+                "W2",
+                "R2",
+                "F2"
+            ],
+            "PreferredLocationOfWork": "CHCF",
+            "Requested_dates_off": [
+                "2020-05-09",
+                "2021-01-31"
+            ],
+            "PreferredWorkingDays":3
+        },
+        "Employee 24": {
+            "License": "Nurse Practitioner",
+            "Specialty": "Urgent Care",
+            "Age": "Family",
+            "Availability": [
+                "M1",
+                "W1",
+                "F1",
+                "M2",
+                "W2",
+                "F2"
+            ],
+            "PreferredLocationOfWork": "THS",
+            "Requested_dates_off": [
+                "2020-05-09",
+                "2021-01-31"
+            ],
+            "PreferredWorkingDays":3
+        },
+        "Employee 25": {
+            "License": "Nurse Practitioner",
+            "Specialty": "Urgent Care",
+            "Age": "Family",
+            "Availability": [
+                "M1",
+                "T1",
+                "W1",
+                "M2",
+                "T2",
+                "W2"
+            ],
+            "PreferredLocationOfWork": "THS",
+            "Requested_dates_off": [
+                "2020-05-09",
+                "2021-01-31"
+            ],
+            "PreferredWorkingDays":3
+        },
+        "Employee 26": {
+            "License": "Nurse Practitioner",
+            "Specialty": "Urgent Care",
+            "Age": "Family",
+            "Availability": [
+                "M1",
+                "T1",
+                "W1",
+                "R1",
+                "F1",
+                "M2",
+                "T2",
+                "W2",
+                "R2",
+                "F2"
+            ],
+            "PreferredLocationOfWork": "THS",
+            "Requested_dates_off": [
+                "2020-05-09",
+                "2021-01-31"
+            ],
+            "PreferredWorkingDays":3
+        },
+        "Employee 27": {
+            "License": "Nurse Practitioner",
+            "Specialty": "Urgent Care",
+            "Age": "Family",
+            "Availability": [
+                "W1",
+                "R1",
+                "F1",
+                "W2",
+                "R2",
+                "F2"
+            ],
+            "PreferredLocationOfWork": "THS",
+            "Requested_dates_off": [
+                "2020-05-09",
+                "2021-01-31"
+            ],
+            "PreferredWorkingDays":3
+        },
+        "Employee 28": {
+            "License": "Nurse Practitioner",
+            "Specialty": "Urgent Care",
+            "Age": "Family",
+            "Availability": [
+                "M1",
+                "W1",
+                "R1",
+                "F1",
+                "W2",
+                "R2",
+                "F2"
+            ],
+            "PreferredLocationOfWork": "THS",
+            "Requested_dates_off": [
+                "2020-05-09",
+                "2021-01-31"
+            ],
+            "PreferredWorkingDays":3
+        },
+        "Employee 31": {
+            "License": "Nurse Practitioner",
+            "Specialty": "Urgent Care",
+            "Age": "Family",
+            "Availability": [
+                "M1",
+                "W1",
+                "R1",
+                "F1",
+                "M2",
+                "W2",
+                "R2",
+                "F2"
+            ],
+            "PreferredLocationOfWork": "PPHC",
+            "Requested_dates_off": [
+                "2020-05-09",
+                "2021-01-31"
+            ],
+            "PreferredWorkingDays":3
+        },
+        "Employee 32": {
+            "License": "Nurse Practitioner",
+            "Specialty": "Urgent Care",
+            "Age": "Adult",
+            "Availability": [
+                "M1",
+                "T1",
+                "W1",
+                "R1",
+                "F1",
+                "M2",
+                "T2",
+                "W2",
+                "R2",
+                "F2"
+            ],
+            "PreferredLocationOfWork": "PPHC",
+            "Requested_dates_off": [
+                "2020-05-09",
+                "2021-01-31"
+            ],
+            "PreferredWorkingDays":3
+        },
+        "Employee 33": {
+            "License": "Nurse Practitioner",
+            "Specialty": "Urgent Care",
+            "Age": "Family",
+            "Availability": [
+                "M1",
+                "T1",
+                "W1",
+                "R1",
+                "F1",
+                "M2",
+                "T2",
+                "W2",
+                "R2",
+                "F2"
+            ],
+            "PreferredLocationOfWork": "PPHC",
+            "Requested_dates_off": [
+                "2020-05-09",
+                "2021-01-31"
+            ],
+            "PreferredWorkingDays":3
+        },
+        "Employee 34": {
+            "License": "Nurse Practitioner",
+            "Specialty": "Urgent Care",
+            "Age": "Adult",
+            "Availability": [
+                "M1",
+                "T1",
+                "W1",
+                "R1",
+                "F1",
+                "M2",
+                "T2",
+                "W2",
+                "R2",
+                "F2"
+            ],
+            "PreferredLocationOfWork": "PPHC",
+            "Requested_dates_off": [
+                "2020-05-09",
+                "2021-01-31"
+            ],
+            "PreferredWorkingDays":3
+        }
+        
+    },
+    "Locations": {
+        "CHCF": {
+            "MinNumberEmployeesRequiredPresent": 1,
+            "SpecialtyRequired": [
+                ""
+            ],
+            "AgeRequired": [
+                "Pediatric",
+                "Pediatric",
+                "Pediatric",
+                "Adult",
+                "Adult"
+            ],
+            "LicenseRequired": [
+                ""
+            ]
+        },
+        "THS": {
+            "MinNumberEmployeesRequiredPresent": 1,
+            "SpecialtyRequired": [
+                ""
+            ],
+            "AgeRequired": [
+                "Family",
+                "Family"
+            ],
+            "LicenseRequired": [
+                ""
+            ]
+        },
+        "PPHC": {
+            "MinNumberEmployeesRequiredPresent": 1,
+            "SpecialtyRequired": [
+                ""
+            ],
+            "AgeRequired": [
+                "Family",
+                "Adult"
+            ],
+            "LicenseRequired": [
+                ""
+            ]
+        }
+    },
+    "Holidays": [
+        "probably will not store holidays here and instead check for holiday in python"
+    ]
+}
