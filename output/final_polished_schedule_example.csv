@@ -1,0 +1,11 @@
+,"Employee 1, Pediatric","Employee 2, Pediatric","Employee 3, Pediatric","Employee 4, adult","Employee 5, adult","Employee 6, Pediatric","Employee 7, Pediatric","Employee 8, Pediatric","Employee 9, adult","Employee 10, adult","Employee 11, Geriatric","Employee 12, Geriatric","Employee 13, Family","Employee 24, Family","Employee 25, Family","Employee 26, Family","Employee 27, Family","Employee 28, Family","Employee 31, Family","Employee 32, Adult","Employee 33, Family","Employee 34, Adult"
+M1,CHCF,,CHCF,CHCF,,CHCF,,,,CHCF,,,,THS,THS,,,THS,PPHC,,PPHC,PPHC
+T1,CHCF,,,,CHCF,,CHCF,CHCF,,CHCF,,,,,THS,THS,,,,PPHC,PPHC,
+W1,,CHCF,CHCF,CHCF,CHCF,,,CHCF,,,,,,THS,THS,,THS,,PPHC,PPHC,,
+R1,,CHCF,,,CHCF,CHCF,CHCF,,CHCF,,,,,,,THS,THS,THS,,,PPHC,PPHC
+F1,,CHCF,CHCF,CHCF,,CHCF,,,CHCF,,,,,,,THS,THS,THS,PPHC,PPHC,,PPHC
+M2,CHCF,CHCF,,CHCF,,,,CHCF,,CHCF,,,,THS,THS,THS,,,PPHC,PPHC,PPHC,
+T2,,CHCF,,,CHCF,CHCF,CHCF,,,CHCF,,,,,THS,THS,,,,PPHC,PPHC,
+W2,,,CHCF,CHCF,,CHCF,,CHCF,CHCF,,,,,,THS,,THS,THS,,,PPHC,PPHC
+R2,CHCF,CHCF,CHCF,,CHCF,,,,CHCF,,,,,,,THS,THS,THS,PPHC,,,PPHC
+F2,CHCF,,,CHCF,,CHCF,,CHCF,CHCF,,,,,THS,,,THS,THS,PPHC,PPHC,,PPHC
